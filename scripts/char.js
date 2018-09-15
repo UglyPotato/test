@@ -18,7 +18,7 @@ var charInfo =
 			"star_4" : {"weapon" : 1, "passive_a" : 1}
 		}
 	},
-	"Alfonse": {
+	"Pinata": {
 		"color" : "Red",
 		"weapon_type" : "Sword",
 		"move_type": "Infantry",
