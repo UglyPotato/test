@@ -1,7 +1,7 @@
 // character data
 var charInfo =
 {
-	"Abel": {
+	"Potato": {
 		"color" : "Blue",
 		"weapon_type" : "Lance",
 		"move_type": "Cavalry",
